@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA1065: No producir excepciones en ubicaciones inesperadas
+dotnet_diagnostic.CA1065.severity = none
